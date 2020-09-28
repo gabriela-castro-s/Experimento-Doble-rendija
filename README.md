@@ -1,5 +1,22 @@
 # Experimento Doble Rendija 💡
 
+## Tabla de contenido
+
+- [Explicasión e historia](#Explicasión).
+- [Cursivas](#cursivas).
+- [Negrilla](#negrilla).
+- [Viñetas para tablas de contenido](#vinetas).
+- [insertar imágenes](#insertar-imagenes).
+- [Insertar enlaces](#insertar-enlaces).
+- [Hacer anclaje](#hacer-anclaje).
+- [Insertar una línea de código](#insertar-una-linea-de-codigo).
+- [Insertar un bloque de código](#insertar-un-bloque-de-codigo).
+- [Resaltar el código](#resaltar-el-codigo).
+- [Insertar tablas](#insertar-tablas).
+- [Otras referencias sobre Markdown](#otras-referencias-sobre-markdown).
+
+## Explicasión e historia
+
 El experimento de la doble rendija fue realizado por primera vez en 1801 por Tomas Young, este comprobó un patrón de interferencias en la luz procedente de una
 fuente lejana al difractarse en el paso por dos rejillas. El experimento también puede realizarse con electrones, protones o neutrones, produciendo patrones de
 interferencia similares a los obtenidos cuando se realiza con luz.
