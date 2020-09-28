@@ -55,7 +55,7 @@ evidenciar partículas intangibles particionandoce entre si mismas así como las
 gran número de universos paralelos todos similares en composición al tangible y todos obedecen las mismas leyes físicas pero difieren en la posición de cada
 partícula.
 
-## Simulación cuántica
+## Simulación cuántica 💻
 
 Para realizar la simulación cuántica del sistema, este tendra una matriz de adyacencia asociada y un vector el cual representara el estado inicial del sistema,
 donde sus posiciones representaran el peso de una conexion especifica entre componentes del sistema.
@@ -77,13 +77,36 @@ matriz = [[0, 0], [0, 0], [0, 0], [0, 0], [0, 0], [0, 0], [0, 0], [0, 0]],
           [[0, 0], [0, 0], [1 / math.sqrt(6), -1 / math.sqrt(6)], [0, 0], [0, 0], [0, 0], [0, 0], [1, 0]]]
 ```
 
-### Para utilizar la librería
+### Para utilizar la librería 📋
 
 Es necesario que cuente con una calculadora para vectores, matrices y números imaginarios. En este repositorio se incluye un archivo de la libreria utilizada para
 generar las simulaciones.
 
 La libreria fue escrita en PyCharm, por lo que cualquier editor de phyton3 puede abrir la librería.
 
+Si desea clonarlo puede realizar los siguientes pasos:
 
+Para clonar el repositorio:
+
+- Nos ubicamos en esta sección del repositorio y presionamos Code
+
+![alt text](https://github.com/gabriela-castro-s/img/blob/master/cnyt1.png?raw=true)
+
+- En la sección clonar, hacemos clic en el portapapeles para copiar el link del repositorio.
+
+![alt text](https://github.com/gabriela-castro-s/img/blob/master/cnyt2.png?raw=true)
+
+- Abrimos nuestro terminal y ubicamos la carpeta en la que queremos clonar el repositorio. 
+Escribimos git clone y seguido ponemos el link que copiamos previamente. 
+
+![alt text](https://github.com/gabriela-castro-s/img/blob/master/cnyt3.png?raw=true)
+
+- El repositorio ha sido clonado.
+
+![alt text](https://github.com/gabriela-castro-s/img/blob/master/cnyt4.png?raw=true)
+
+### Realizando pruebas 🤓
+
+En los archivos del repositorio se incluye [DoubleslitTest](https://github.com/gabriela-castro-s/Experimento-Doble-rendija/blob/master/DoubleslitTest.py)
 
 
