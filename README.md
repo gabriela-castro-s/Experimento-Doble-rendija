@@ -28,6 +28,12 @@ Para realizar nuestro montaje experimental necesitaremos:
 
 ![alt text](https://github.com/gabriela-castro-s/img/blob/master/doubleslit1.jpeg?raw=true)
 
+4. Con el laser encendido ubicamos la hoja para que cace con las rendijas y se refleje en el techo, debería verse así.
+
+![alt text](https://github.com/gabriela-castro-s/img/blob/master/doubleslit2.jpeg?raw=true)
+
+Si desea ver el montaje experimental en video pudes hacer clic aquí.
+
 ## ¿Cómo nos ayuda a entender el multiverso? 🔬
 
 Cada fotón es tangible en un universo e intangible en todos sus universos paralelos, este experimento nos permite entender la teoría del mulltiverso pues podemos evidenciar partículas intangibles particionandoce entre si mismas así como las partículas tangibles lo que quiere decir que las partículas intangibles forman un gran número de universos paralelos todos similares en composición al tangible y todos obedecen las mismas leyes físicas pero difieren en la posición de cada partícula.
