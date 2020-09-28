@@ -132,4 +132,4 @@ PyCharm 2020.2 (Community Edition)
 
 ## Bibliografía 📖
 
-- Deutsh, David (1997). The Fabric of reality: The Science of Parallel Universes and its Implicatios. PENGUIN BOOKS, Chapter 2. -
+-Deutsh, David (1997). The Fabric of reality: The Science of Parallel Universes and its Implicatios. PENGUIN BOOKS, Chapter 2.-
