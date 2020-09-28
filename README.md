@@ -41,7 +41,8 @@ laser y las rendijas de la mejor manera, la apoyé en una mesa y reflejé el las
 
 ![alt text](https://github.com/gabriela-castro-s/img/blob/master/doubleslit1.jpeg?raw=true)
 
-4. Con el laser encendido ubicamos la hoja para que cace con las rendijas y se refleje en el techo, debería verse así.
+4. Con el laser encendido ubicamos la hoja para que cace con las rendijas y se refleje en el techo, debería verse así. Recuerda que para obtener mejores resultados
+debes realizar el procedimiento en una habitación oscura.
 
 ![alt text](https://github.com/gabriela-castro-s/img/blob/master/doubleslit2.jpeg?raw=true)
 
@@ -63,7 +64,7 @@ La matriz de adyacencía se representa así:
 
 ![alt text](https://github.com/gabriela-castro-s/img/blob/master/matrizadyacencia.jpeg?raw=true)
 
-En la librería corresponde a
+En la librería corresponde a:
 
 ```
 matriz = [[0, 0], [0, 0], [0, 0], [0, 0], [0, 0], [0, 0], [0, 0], [0, 0]],
@@ -75,5 +76,14 @@ matriz = [[0, 0], [0, 0], [0, 0], [0, 0], [0, 0], [0, 0], [0, 0], [0, 0]],
          [[0, 0], [0, 0], [-1 / math.sqrt(6), -1 / math.sqrt(6)], [0, 0], [0, 0], [0, 0], [1, 0], [0, 0]],
           [[0, 0], [0, 0], [1 / math.sqrt(6), -1 / math.sqrt(6)], [0, 0], [0, 0], [0, 0], [0, 0], [1, 0]]]
 ```
+
+### Para utilizar la librería
+
+Es necesario que cuente con una calculadora para vectores, matrices y números imaginarios. En este repositorio se incluye un archivo de la libreria utilizada para
+generar las simulaciones.
+
+La libreria fue escrita en PyCharm, por lo que cualquier editor de phyton3 puede abrir la librería.
+
+
 
 
