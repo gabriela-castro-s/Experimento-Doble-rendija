@@ -1,1 +1,1 @@
-# Experimento-Doble-rendija-cuantica
+# Experimento-Doble-rendija
