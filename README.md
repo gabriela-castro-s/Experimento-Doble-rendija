@@ -61,4 +61,4 @@ donde sus posiciones representaran el peso de una conexion especifica entre comp
 
 La matriz de adyacencía se representa así:
 
-![alt text](https://github.com/gabriela-castro-s/img/blob/master/matrizadyacencia.jpeg?raw=true)
+![alt text](https://github.com/gabriela-castro-s/img/blob/master/matrizadyacencia.jpeg?raw=true width="200" height="200")
