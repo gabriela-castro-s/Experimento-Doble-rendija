@@ -2,7 +2,7 @@
 
 ## Tabla de contenido
 
-- [Explicasión e historia](#Explicasión).
+- [Explicasión e historia](#Explicasión e historia).
 - [Cursivas](#cursivas).
 - [Negrilla](#negrilla).
 - [Viñetas para tablas de contenido](#vinetas).
