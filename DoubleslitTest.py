@@ -5,6 +5,7 @@ import math
 
 class classicalToQuantum(unittest.TestCase):
     def testMultipleSlitQuantumExperiment(self):
+        #Matriz de adyacencia experimento doble rendija
         Matriz_Doble_Rendija = [
             [[0, 0], [0, 0], [0, 0], [0, 0], [0, 0], [0, 0], [0, 0], [0, 0]],
             [[1 / math.sqrt(2), 0], [0, 0], [0, 0], [0, 0], [0, 0], [0, 0], [0, 0], [0, 0]],
@@ -16,6 +17,7 @@ class classicalToQuantum(unittest.TestCase):
             [[0, 0], [0, 0], [-1 / math.sqrt(6), -1 / math.sqrt(6)], [0, 0], [0, 0], [0, 0], [1, 0], [0, 0]],
             [[0, 0], [0, 0], [1 / math.sqrt(6), -1 / math.sqrt(6)], [0, 0], [0, 0], [0, 0], [0, 0], [1, 0]]]
 
+        #Vector que representa el estado inicial del sistema
         Estado_Inicial = [[1, 0], [0, 0], [0, 0], [0, 0], [0, 0], [0, 0], [0, 0], [0, 0]]
 
         self.assertEqual(multipleSlitQuantumExperiment(Matriz_Doble_Rendija[:],
