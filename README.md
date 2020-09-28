@@ -1,22 +1,5 @@
 # Experimento Doble Rendija 💡
 
-## Tabla de contenido
-
-- [Explicasión e historia](#explicasion-e-historia).
-- [Cursivas](#cursivas).
-- [Negrilla](#negrilla).
-- [Viñetas para tablas de contenido](#vinetas).
-- [insertar imágenes](#insertar-imagenes).
-- [Insertar enlaces](#insertar-enlaces).
-- [Hacer anclaje](#hacer-anclaje).
-- [Insertar una línea de código](#insertar-una-linea-de-codigo).
-- [Insertar un bloque de código](#insertar-un-bloque-de-codigo).
-- [Resaltar el código](#resaltar-el-codigo).
-- [Insertar tablas](#insertar-tablas).
-- [Otras referencias sobre Markdown](#otras-referencias-sobre-markdown).
-
-## Explicasión e historia
-
 El experimento de la doble rendija fue realizado por primera vez en 1801 por Tomas Young, este comprobó un patrón de interferencias en la luz procedente de una
 fuente lejana al difractarse en el paso por dos rejillas. El experimento también puede realizarse con electrones, protones o neutrones, produciendo patrones de
 interferencia similares a los obtenidos cuando se realiza con luz.
@@ -122,8 +105,31 @@ Escribimos git clone y seguido ponemos el link que copiamos previamente.
 
 ![alt text](https://github.com/gabriela-castro-s/img/blob/master/cnyt4.png?raw=true)
 
-### Realizando pruebas 🤓
+### Ejecutando pruebas 🤓
 
-En los archivos del repositorio se incluye [DoubleslitTest](https://github.com/gabriela-castro-s/Experimento-Doble-rendija/blob/master/DoubleslitTest.py)
+En los archivos del repositorio se incluye [DoubleslitTest](https://github.com/gabriela-castro-s/Experimento-Doble-rendija/blob/master/DoubleslitTest.py), 
+este contiene las pruebas para comprobar las probablidades de la matriz de adyacencia en su estado inicial.
 
+Para ejecutarlas, después de clonar el repositorio, en su terminal:
 
+- Abra la carpeta en la que se encuentra el repositorio
+```
+cd Experimento Doble Rendija
+
+```
+- Ejecute las pruebas con el comando
+
+```
+ python DoubleslitTest.py
+```
+## Construido con 🛠️
+
+PyCharm 2020.2 (Community Edition)
+
+## Autores ✒️
+
+* **Gabriela Castro Santamaría** [gabriela-castro-s](https://github.com/gabriela-castro-s) 
+
+## Bibliografía 📖
+
+- Deutsh, David (1997). The Fabric of reality: The Science of Parallel Universes and its Implicatios. PENGUIN BOOKS, Chapter 2. -
