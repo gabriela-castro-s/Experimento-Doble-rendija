@@ -46,7 +46,7 @@ debes realizar el procedimiento en una habitación oscura.
 
 ![alt text](https://github.com/gabriela-castro-s/img/blob/master/doubleslit2.jpeg?raw=true)
 
-Si desea ver el montaje experimental en video pudes hacer clic aquí.
+Si desea ver el montaje experimental en video pudes hacer clic [aquí](https://www.youtube.com/watch?v=vUDKAd3yf9U).
 
 ## ¿Cómo nos ayuda a entender el multiverso? 🔬
 
